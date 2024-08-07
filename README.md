@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Procedural RPG integrated with AI**
 
-- 🌱 I’m currently learning **Refactoring in Fava**
+- 🌱 I’m currently learning **Refactoring in Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jose-Martinelli?tab=projects](https://github.com/Jose-Martinelli?tab=projects)
 
