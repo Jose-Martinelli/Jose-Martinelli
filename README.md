@@ -10,12 +10,6 @@
 
 - 📫 How to reach me **josefranciscomartinelli@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/josé francisco martinelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé francisco martinelli" height="30" width="40" /></a>
-<a href="https://instagram.com/js_martinelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="js_martinelli" height="30" width="40" /></a>
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jose-martinelli&show_icons=true&locale=en&layout=compact" alt="jose-martinelli" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jose-martinelli&show_icons=true&locale=en" alt="jose-martinelli" /></p>
