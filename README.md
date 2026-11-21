@@ -8,17 +8,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/bQCwwu0yF90AAAAi/developer-workstation.gif">
 
-- 🔭 I’m currently working on **Procedural RPG integrated with AI**
-
-- 🌱 I’m currently learning **Refactoring in Java**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Jose-Martinelli?tab=projects](https://github.com/Jose-Martinelli?tab=projects)
-
 - 📫 How to reach me **josefranciscomartinelli@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/jose-francisco-m/](https://www.linkedin.com/in/jose-francisco-m/)
-
-- ⚡ Fun fact **I'm a dog person!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
